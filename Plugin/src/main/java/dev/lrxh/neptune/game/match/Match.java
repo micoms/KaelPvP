@@ -288,7 +288,7 @@ public abstract class Match {
                 if (state.equals(MatchState.STARTING)) {
                     showHealth();
                 }
-            }
+            }       
 
             if (!kit.is(KitRule.SATURATION)) {
                 Player player = participant.getPlayer();
@@ -399,6 +399,8 @@ public abstract class Match {
             horse.setAdult();
 
             horse.addPassenger(player);
+
+            getEntities().add(horse);
         }
     }
 
