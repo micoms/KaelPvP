@@ -1,8 +1,10 @@
 name: Build and Release
 
 on:
+  push:
+    branches: [main]
   release:
-    types: [master]
+    types: [published]
 
 jobs:
   build:
