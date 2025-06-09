@@ -1,4 +1,4 @@
-# 🌊 Neptune Practice Core (1.19 – 1.21)
+# 🌊 Kael Practice Core (1.19 – 1.21) - Neptune Fork
 
 ![Neptune Banner](https://github.com/user-attachments/assets/d044e94d-2e6f-4495-a7ed-c997b305eb4a)
 
