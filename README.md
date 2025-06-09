@@ -40,7 +40,7 @@ A powerful and highly customizable Practice Core built for Minecraft versions **
 
 ## 🧪 Usage
 
-Use the `/neptune` command to create and manage arenas and kits through intuitive in-game menus.
+Use the `/kael` command to create and manage arenas and kits through intuitive in-game menus.
 
 ---
 
